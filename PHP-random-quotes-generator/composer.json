@@ -1,18 +1,20 @@
 {
-    "name": "rakibtg/php-random-quotes-generator",
-    "description": "This library will generate a random quote for you.",
+    "name": "spawar/php-random-quotes-generator",
+    "description": "This liabrary is used to print Hello world",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "rakibtg",
-            "email": "rakibtg@gmail.com"
+            "name": "shubhanginpawar",
+            "email": "shubhangipawar@webuy.com"
         }
-    ],
+    ], 
     "autoload": {
         "psr-4": {
             "RandomQuotes\\": "src/"
         }
     },
+    
     "require": {}
 }
+
